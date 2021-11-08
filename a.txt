@@ -3,3 +3,4 @@ Main commit D1
 Main commit D2
 Main commit D3
 Beta commit B1
+Beta commit B2
